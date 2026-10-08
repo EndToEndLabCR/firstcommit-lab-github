@@ -1,10 +1,13 @@
-Alonso Villanueva Naranjo
+# Alonso Villanueva Naranjo
 
-Senior Software Engineer & Team Lead. Builds scalable backend systems, cloud
-platforms and developer tools with Python, Java, React and AWS. Leads the
-EndToEndLabCR open-source community and is pursuing a Master's in AI Development.
+- **GitHub:** [@Alonsovn](https://github.com/Alonsovn)
+- **GitHub org:** [@alonsovndev](https://github.com/alonsovndev)
+- **LinkedIn:** [Alonso Villanueva Naranjo](https://www.linkedin.com/in/alonso-villanueva-naranjo-739341144)
+- **Website:** [alonsovndev.com](https://alonsovndev.com/)
+- **Role:** Senior Software Engineer & Team Lead
 
-**Github user:** Alonsovn
-**Github org:** alonsovndev
-**LinkedIn:** https://www.linkedin.com/in/alonso-villanueva-naranjo-739341144
-**Website:** https://alonsovndev.com/
+## About
+
+Builds scalable backend systems, cloud platforms and developer tools with Python,
+Java, React and AWS. Leads the EndToEndLabCR open-source community and is pursuing
+a Master's in AI Development.
